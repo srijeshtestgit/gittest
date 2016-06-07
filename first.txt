@@ -1,1 +1,2 @@
-Hello good morning. Today is Tuesday.
+Hello good morning. Today is Tuesday. This the first file added to my project
+It is above all.
